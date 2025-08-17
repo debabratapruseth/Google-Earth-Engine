@@ -65,7 +65,7 @@ This repository contains Earth Engine + Python projects that showcase how satell
 
 ## Prerequsite
 
-- [Google Earth Engine API access ](https://developers.google.com/earth-engine/guides)
+- [Google Earth Engine API access ](https://developers.google.com/earth-engine/#api)
 
 ---
 
